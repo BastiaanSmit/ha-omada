@@ -1,6 +1,8 @@
 # Home Assistant TP-Link Omada Integration
 Adds Omada SDN Controller support to Home assistant. This integration requires [HACS](https://hacs.xyz).
 
+FORKED: Changed scan interval from 30 to 10 seconds.
+
 ## Features
 
 - Device tracker for WLAN clients
