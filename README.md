@@ -3,6 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
 Adds Omada SDN Controller support to Home assistant. This integration requires [HACS](https://hacs.xyz).
+
 FORKED: Changed scan interval from 30 to 10 seconds.
 
 ## Features
